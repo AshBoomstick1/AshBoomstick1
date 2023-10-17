@@ -1,6 +1,6 @@
 - I’m @AshBoomstick1
 - I like video games
-- I'm learning HTML, CSS, and JS
+- I'm learning HTML, CSS, and JS, and Python
 - I don't want to collaberate
 - don't reach out to me.
 <!---
